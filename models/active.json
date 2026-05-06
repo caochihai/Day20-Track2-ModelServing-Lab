@@ -1,0 +1,6 @@
+{
+    "tier": "Manual",
+    "repo_id": "manual",
+    "primary_model": "D:/llama.cpp/llama-b9033-bin-win-cpu-x64/model/Qwen3-1.7B-Q8_0.gguf",
+    "compare_model": "D:/llama.cpp/llama-b9033-bin-win-cpu-x64/model/Qwen3-1.7B-Q8_0.gguf"
+}

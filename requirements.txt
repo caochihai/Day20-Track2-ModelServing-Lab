@@ -16,3 +16,4 @@ matplotlib>=3.8.0       # latency histograms in benchmarks/
 
 # Notebook-friendly (optional but useful for student exploration)
 ipykernel>=6.29.0
+llama-cpp-python
